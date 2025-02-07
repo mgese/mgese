@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/michael-gesenhues-b2762b291" target="_blank">
+  <a href="https://linkedin.com/in/mgese" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Michael Gesenhues LinkedIn" />
   </a>
 </p>
