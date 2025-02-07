@@ -29,6 +29,15 @@
 - **Key Features:**
   - Switchable dark/light themes.
   - Line highlighting for better code visualization.
+ 
+#### 3. [Pic2Plate](https://pic2plate.chayns.site/)
+- A web application created during the project days at the vocational college in Ahaus, earning 3rd place.
+- **Tech Stack:** React, Redux, TypeScript, Chayns Framework.
+- **Key Features:**
+  - AI-based food image analysis for ingredient detection.
+  - Recipe suggestions tailored to detected ingredients.
+  - Save favorite recipes for quick access.
+  - Set dietary preferences (e.g., vegetarian, vegan, gluten-free).
 
 ---
 
