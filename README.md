@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🔧 I’m currently working on **[FairFit](https://fairfit.net)** ([QA](https://qa.fairfit.net/)).
+- 🔧 I’m currently working on **[FairNet](https://fairnet.site)**.
 - 📊 Exploring modern front-end and back-end technologies to deliver intuitive user experiences.
 
 ---
